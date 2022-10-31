@@ -11,6 +11,13 @@
  <li>NODE</li>
 </ul>
 
+<h2>:x:  Important</h2>
+<p>This project does not come with the Api Key included. Therefore, it is necessary to register on the https://openweathermap.org/ website to obtain the same. After that, create a file named ".env" at the root of the project and fill in as indicated below.</p>
+
+```
+apiKey=fill_your_api
+```
+
 <h2>:file_folder: Access to the project</h2>
 
 <p>You can access the project files by clicking <a href="https://github.com/PHDevss/WeatherProject/">here</a>.</p>
