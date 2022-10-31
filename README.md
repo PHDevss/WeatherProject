@@ -1,7 +1,7 @@
 <h1 align="center">Weather Project</h1>
 <h2>Project Summary</h2>
 <p>Project development with Angela Yu.</p>
-<p>This project was developed using express to handle backend routes. When typing the name of a city, beckend makes a call to the openweather's API and returns to the user according to the requested weather conditions of the city.</p> 
+<p>This project was developed using express to handle backend routes. When typing the name of a city, beckend makes a call to the openweather's API (https://openweathermap.org/) and returns to the user according to the requested weather conditions of the city.</p> 
 
 <h2>:heavy_check_mark:  Techniques and technologies used</h2>
 <ul>
